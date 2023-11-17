@@ -6,4 +6,5 @@
 
 ![image](https://github.com/Younghoda/STM_Simple_Fan/assets/141108118/f0bdccf1-150b-479f-9aad-7e12c8c92109)
 
-![Uploading image.png…]()
+![image](https://github.com/Younghoda/STM_Simple_Fan/assets/141108118/242a2283-5701-423d-af86-42e0797ba363)
+
