@@ -4,3 +4,4 @@
 
 -누른 버튼에 따라 각각의 LED가 켜지고 LCD 화면에 현재 선풍기의 속도를 표시한다.
 
+![image](https://github.com/Younghoda/STM_Simple_Fan/assets/141108118/f0bdccf1-150b-479f-9aad-7e12c8c92109)
